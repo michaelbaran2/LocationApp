@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LocationApp</string>
+    <string name="default_text">" "</string>
+    <string name="button_start">Start Tracking Location</string>
+    <string name="button_stop">Stop Tracking Location</string>
+    <string name="location_permission_denied">Please allow location permissions</string>
+    <string name="location_text">"Latitude: %1$.6f\nLongitude: %2$.6f\nTimestamp: %3$tr"</string>
+    <string name="no_location">No location</string>
+    <string name="no_address_service">Service not available</string>
+    <string name="invalid_coordinates">Invalid coordinates were supplied to the Geocoder</string>
+    <string name="no_address_found">No address found</string>
+    <string name="address_text">"Address: %1$s\nTimestamp: %2$tr"</string>
+</resources>
